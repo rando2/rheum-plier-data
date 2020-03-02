@@ -19,7 +19,7 @@ This version is current as of [`978c379`](https://github.com/greenelab/rheum-pli
 
 Citations:
 
-> Collado-Torres L, Nellore A, Kammers K, et al. [Reproducible RNA-seq analysis using _recount2_](https://http://doi.org/10.1038/nbt.3838). _Nature Biotechnology_, 2017. doi: 10.1038/nbt.3838. 
+> Collado-Torres L, Nellore A, Kammers K, et al. [Reproducible RNA-seq analysis using _recount2_](https://doi.org/10.1038/nbt.3838). _Nature Biotechnology_, 2017. doi: 10.1038/nbt.3838. 
 
 > Mao W, Chikina M. [Pathway-Level Information ExtractoR (PLIER): a generative model for gene expression data](http://dx.doi.org/10.1101/116061). _bioRxiv_, 2017. doi: 10.1101/116061
 
